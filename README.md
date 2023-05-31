@@ -23,3 +23,17 @@ target_host = "example.com" # Domain only
 common_ports = [20, 21, 22, 23, 25, 53, 80, 110, 443, 445, 1433, 1521, 3306, 3389]
 is_host_up(target_host, common_ports)
 
+Applications
+PacamaraScan can be used in various scenarios by cybersecurity professionals:
+
+Network Security Auditing: Check for open ports that could be potential security vulnerabilities.
+
+Penetration Testing: Use as part of a suite of tools in a penetration testing workflow to identify targets and potential attack vectors.
+
+Network Troubleshooting: Identify whether a host is up and whether specific services are available.
+
+Conclusion
+PacamaraScan, like its namesake the Pacamara coffee variety, aims to be an essential part of your cybersecurity toolkit. Its flexibility, ease of use, and robustness make it a versatile tool for any cybersecurity professional or enthusiast.
+
+Disclaimer
+PacamaraScan should be used responsibly. Do not use it to scan networks for which you do not have permission. Always respect privacy and the law.
